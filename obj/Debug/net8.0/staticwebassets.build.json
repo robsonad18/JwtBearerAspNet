@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hIN8R9v9kCtgv4sLcYJy+VOIyEjxbaeOQuv390iQvQE=",
+  "Source": "JwtBearerAspNet",
+  "BasePath": "_content/JwtBearerAspNet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

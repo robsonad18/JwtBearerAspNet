@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RobsonLucasFariasBar\\Documents\\development\\aspnet\\JwtBearerAspNet\\JwtBearerAspNet.csproj": {}
+    "c:\\Users\\RobsonLucasFariasBar\\Documents\\development\\aspnet\\JwtBearerAspNet\\JwtBearerAspNet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RobsonLucasFariasBar\\Documents\\development\\aspnet\\JwtBearerAspNet\\JwtBearerAspNet.csproj": {
+    "c:\\Users\\RobsonLucasFariasBar\\Documents\\development\\aspnet\\JwtBearerAspNet\\JwtBearerAspNet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RobsonLucasFariasBar\\Documents\\development\\aspnet\\JwtBearerAspNet\\JwtBearerAspNet.csproj",
+        "projectUniqueName": "c:\\Users\\RobsonLucasFariasBar\\Documents\\development\\aspnet\\JwtBearerAspNet\\JwtBearerAspNet.csproj",
         "projectName": "JwtBearerAspNet",
-        "projectPath": "C:\\Users\\RobsonLucasFariasBar\\Documents\\development\\aspnet\\JwtBearerAspNet\\JwtBearerAspNet.csproj",
+        "projectPath": "c:\\Users\\RobsonLucasFariasBar\\Documents\\development\\aspnet\\JwtBearerAspNet\\JwtBearerAspNet.csproj",
         "packagesPath": "C:\\Users\\RobsonLucasFariasBar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RobsonLucasFariasBar\\Documents\\development\\aspnet\\JwtBearerAspNet\\obj\\",
+        "outputPath": "c:\\Users\\RobsonLucasFariasBar\\Documents\\development\\aspnet\\JwtBearerAspNet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\RobsonLucasFariasBar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
